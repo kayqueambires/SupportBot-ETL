@@ -1,22 +1,25 @@
-# SupportBot-ETL
+---
+
+# SupportBot-ETL 🤖
 
 O SupportBot-ETL é um projeto em Python que utiliza a engine OpenAI GPT-3.5-Turbo para automatizar a resolução de tickets de suporte. Ele processa tickets de suporte e gera soluções fictícias.
 
 ## Começando 💬
 
 1. Clone o repositório para a sua máquina local.
-2. Instale as dependências necessárias:
-
+   
+3. Instale as dependências necessárias:
+```bash
 pip install pandas openai
+```
+5. Obtenha uma chave de API da OpenAI seguindo os passos abaixo:
 
-3. Obtenha uma chave de API da OpenAI seguindo os passos abaixo:
-
-- Acesse o site da OpenAI em [https://platform.openai.com/signup/](https://platform.openai.com/signup/) e faça o seu cadastro.
-- Depois de criar uma conta, vá até seu perfil no canto superior direito.
-- Clique nele e selecione a opção View API keys
-- Crie sua API key a partir do botão Create new secret key
-- Copie a sua chave de API fornecida pela OpenAI.
-- No arquivo `main.py`, substitua `'sua-key-openai'` pela chave de API que você copiou.
+> 1. Acesse o site da OpenAI em [https://platform.openai.com/signup/](https://platform.openai.com/signup/) e faça o seu cadastro.
+> 2. Depois de criar uma conta, vá até seu perfil no canto superior direito.
+> 3. Clique nele e selecione a opção "View API keys."
+> 4. Crie sua API key a partir do botão "Create new secret key."
+> 5. Copie a sua chave de API fornecida pela OpenAI.
+> 6. No arquivo `main.py`, substitua `'sua-key-openai'` pela chave de API que você copiou.
 
 ## Uso ✔
 
@@ -32,10 +35,12 @@ pip install pandas openai
 
 ## Licença 📖
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+**Este projeto está licenciado sob a [Licença MIT](LICENSE).**
 
 ## Contato 📩
 
-Para qualquer dúvida ou feedback, entre em contato:
+#### **_Para qualquer dúvida ou feedback, entre em contato:_**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/kayqueambires/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:kayqueasilveira@gmail.com)
+
+---
