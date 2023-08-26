@@ -4,6 +4,8 @@
 
 O SupportBot-ETL é um projeto em Python que utiliza a engine OpenAI GPT-3.5-Turbo para automatizar a resolução de tickets de suporte. Ele processa tickets de suporte e gera soluções fictícias.
 
+**#SantanderBootcamp #DIO**
+
 ## Começando 💬
 
 1. Clone o repositório para a sua máquina local.
