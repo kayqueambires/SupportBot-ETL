@@ -1,0 +1,9 @@
+__pycache__/
+
+*.pyc
+
+SupportBot-ETL.code-workspace
+
+data/customer_support_tickets.csv
+
+scripts/Translator.py
